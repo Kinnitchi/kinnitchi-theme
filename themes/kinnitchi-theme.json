@@ -738,7 +738,7 @@
 		},
 		{
 			"name": "Elixir Functions",
-			"scope": "source.elixir entity.name.function",
+			"scope": "source.elixir entity.name.funaction",
 			"settings": {
 				"foreground": "#72f1b8"
 			}
