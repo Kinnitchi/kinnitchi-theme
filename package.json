@@ -2,7 +2,7 @@
   "name": "kinnitchi-theme",
   "displayName": "Dark neon theme",
   "description": "Dark neon theme inspired by Dracula and Legendary Theme",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.90.0"
   },
