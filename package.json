@@ -2,7 +2,7 @@
   "name": "kinnitchi-theme",
   "displayName": "Dark neon theme",
   "description": "Dark neon theme inspired by Dracula and Legendary Theme",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -14,7 +14,7 @@
     "url": "https://github.com/Kinnitchi/kinnitchi-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/caumeira/dark-material-dracula/issues"
+    "url": "https://github.com/Kinnitchi/kinnitchi-theme.git/issues"
   },
   "icon": "icon.png",
   "keywords": [
@@ -23,21 +23,20 @@
     "neon",
     "kinnitchi",
     "Dracula Theme",
-    "Legendary Theme",
-    "IDX"
+    "Legendary Theme"
   ],
   "publisher": "kinnitchi",
   "contributes": {
     "themes": [
       {
-        "label": "Neon Dark Theme",
+        "label": "Neon Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/kinnitchi-theme.json"
       },
       {
-        "label": "Neon High Dark Theme",
+        "label": "Neon Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/kinnitchi-idx.json"
+        "path": "./themes/kinnitchi-theme-dark.json"
       }
     ]
   }
