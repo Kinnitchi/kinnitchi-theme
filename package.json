@@ -1,8 +1,8 @@
 {
   "name": "kinnitchi-theme",
-  "displayName": "Dark neon theme",
-  "description": "Dark neon theme inspired by Dracula and Legendary Theme",
-  "version": "0.2.0",
+  "displayName": "Kinnitchi Neon Theme",
+  "description": "Dark neon theme inspired by Dracula and Legendary Theme. Includes full UI theming, bracket pair colorization, inlay hints, minimap, and syntax highlighting for JS/TS/Python/Go/Rust/C#/CSS and more.",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.90.0"
   },
