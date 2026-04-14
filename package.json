@@ -37,6 +37,11 @@
         "label": "Neon Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/kinnitchi-theme-dark.json"
+      },
+      {
+        "label": "Darkrula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkrula-theme.json"
       }
     ]
   }
