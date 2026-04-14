@@ -34,14 +34,14 @@
         "path": "./themes/kinnitchi-theme.json"
       },
       {
-        "label": "Neon Dark Theme",
+        "label": "Neon Dark Modern",
         "uiTheme": "vs-dark",
         "path": "./themes/kinnitchi-theme-dark.json"
       },
       {
-        "label": "Darkrula",
+        "label": "Neon Darkula",
         "uiTheme": "vs-dark",
-        "path": "./themes/kinnitchi-theme-darkrula.json"
+        "path": "./themes/kinnitchi-theme-darkula.json"
       }
     ]
   }

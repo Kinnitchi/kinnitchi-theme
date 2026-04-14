@@ -937,6 +937,109 @@
       "settings": {
         "foreground": "#72f1b8"
       }
+    },
+    {
+      "name": "TypeScript type annotations",
+      "scope": [
+        "meta.type.annotation.ts",
+        "meta.type.annotation.tsx",
+        "entity.name.type.ts",
+        "entity.name.type.tsx",
+        "entity.name.type.module.ts"
+      ],
+      "settings": {
+        "foreground": "#72f1b8"
+      }
+    },
+    {
+      "name": "TypeScript interface",
+      "scope": [
+        "entity.name.type.interface.ts",
+        "entity.name.type.interface.tsx"
+      ],
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
+    {
+      "name": "TypeScript decorator",
+      "scope": [
+        "meta.decorator.ts",
+        "meta.decorator.tsx",
+        "punctuation.decorator.ts",
+        "punctuation.decorator.tsx"
+      ],
+      "settings": {
+        "foreground": "#fede5d",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "TypeScript generic type parameter",
+      "scope": ["meta.type.parameters.ts", "meta.type.parameters.tsx"],
+      "settings": {
+        "foreground": "#72f1b8"
+      }
+    },
+    {
+      "name": "JSX/TSX component tag",
+      "scope": [
+        "support.class.component.js",
+        "support.class.component.jsx",
+        "support.class.component.ts",
+        "support.class.component.tsx",
+        "entity.name.tag.tsx",
+        "entity.name.tag.jsx"
+      ],
+      "settings": {
+        "foreground": "#fe4450"
+      }
+    },
+    {
+      "name": "Rust lifetime",
+      "scope": "storage.modifier.lifetime.rust",
+      "settings": {
+        "foreground": "#fede5d",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Rust macro",
+      "scope": ["meta.macro.rust", "entity.name.function.macro.rust"],
+      "settings": {
+        "foreground": "#72f1b8"
+      }
+    },
+    {
+      "name": "Rust self",
+      "scope": "variable.language.self.rust",
+      "settings": {
+        "foreground": "#fe4450",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Rust type",
+      "scope": ["entity.name.type.rust", "storage.type.rust"],
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "foreground": "#FF5A5A",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "Deprecated",
+      "scope": "invalid.deprecated",
+      "settings": {
+        "foreground": "#FF9F2E",
+        "fontStyle": "strikethrough"
+      }
     }
   ]
 }
