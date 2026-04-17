@@ -209,7 +209,7 @@
     "searchEditor.textInputBorder": "#151320",
     "editor.hoverHighlightBackground": "#373941",
     "editor.lineHighlightBackground": "#2e323d",
-    "editor.lineHighlightBorder": "#2196f35430",
+    "editor.lineHighlightBorder": "#2e323d",
     "editorLink.activeForeground": "#80FFEA",
     "editor.rangeHighlightBackground": "#37466b",
     "editorWhitespace.foreground": "#373252",
@@ -230,20 +230,21 @@
     "editorLightBulbAutoFix.foreground": "#8AFF80",
     "editorLightBulbAi.foreground": "#2196f354",
     "editorBracketMatch.background": "#746f77",
-    "editorBracketHighlight.foreground1": "#FF9580",
+    "editorBracketMatch.border": "#746f77",
+    "editorBracketHighlight.foreground1": "#80FFEA",
     "editorBracketHighlight.foreground2": "#8AFF80",
     "editorBracketHighlight.foreground3": "#FFCA80",
     "editorBracketHighlight.foreground4": "#FFFF80",
     "editorBracketHighlight.foreground5": "#BFB3FF",
     "editorBracketHighlight.foreground6": "#80FFEA",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF80BF",
-    "editorBracketPairGuide.activeBackground1": "#FF958020",
+    "editorBracketPairGuide.activeBackground1": "#80FFEA20",
     "editorBracketPairGuide.activeBackground2": "#8AFF8020",
     "editorBracketPairGuide.activeBackground3": "#FFCA8020",
     "editorBracketPairGuide.activeBackground4": "#FFFF8020",
     "editorBracketPairGuide.activeBackground5": "#2196f35420",
     "editorBracketPairGuide.activeBackground6": "#80FFEA20",
-    "editorBracketPairGuide.background1": "#FF958010",
+    "editorBracketPairGuide.background1": "#80FFEA10",
     "editorBracketPairGuide.background2": "#8AFF8010",
     "editorBracketPairGuide.background3": "#FFCA8010",
     "editorBracketPairGuide.background4": "#FFFF8010",
@@ -1133,7 +1134,7 @@
       "name": "Keywords",
       "scope": ["keyword", "punctuation.definition.keyword"],
       "settings": {
-        "foreground": "#FF80BF"
+        "foreground": "#fede5d"
       }
     },
     {
